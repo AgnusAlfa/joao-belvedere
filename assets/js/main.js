@@ -221,7 +221,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
             await emailjs.sendForm(
                 "service_jve0qus",
-                "template_9vdjn5s",
+                "template_6r6jpu8",
                 this
             );
 
